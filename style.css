@@ -1,0 +1,17 @@
+body{
+    background-color: #F0FFFF;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Are You Serious', cursive;
+    font-weight: 300;
+}
+
+.line{
+    height: 6px;
+    width: 70px; 
+    background-color: black;
+    margin: 8px auto;
+}
